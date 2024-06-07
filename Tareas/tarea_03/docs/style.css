@@ -1,0 +1,20 @@
+body {background-color: beige;
+    font-family: Arial, Helvetica;
+}
+
+#container{
+    max-width: 70%;
+    margin: 0px auto;
+    
+}
+
+.content{
+    width: 70%;
+    margin: 0px auto;
+    float: right;
+}
+
+footer{
+    font-size: small ;
+    text-align: center;
+}
